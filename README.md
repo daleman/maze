@@ -1,2 +1,2 @@
-# maze
-Maze Generator
+# Generador de laberintos
+
