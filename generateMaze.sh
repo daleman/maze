@@ -1,2 +1,2 @@
-g++ -o maze maze1.cpp
-.\maze
+g++ -o maze mazeGenerator.cpp
+./maze
